@@ -1,0 +1,122 @@
+City_ID,City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Hotel Name
+0,0,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+4,4,Nara,JP,2022-02-06 17:22:22,34.6851,135.8049,38.48,62,12,4.63,Guesthouse Nara Komachi
+11,11,Zharkovskiy,RU,2022-02-06 17:22:24,55.849,32.2697,30.11,90,100,9.64,"Gostinitsa ""Mezha"""
+19,19,Klaksvik,FO,2022-02-06 17:12:28,62.2266,-6.589,36.52,61,87,37.51,Airbnb rooms
+21,21,Brae,GB,2022-02-06 17:22:25,60.3964,-1.353,39.11,59,100,30.4,Busta House Hotel
+25,25,Gravdal,NO,2022-02-06 17:22:26,68.1214,13.5031,33.69,64,40,5.75,Skreda Rorbusuiter
+37,37,Krasnoye,UA,2022-02-06 17:22:29,49.9145,24.6134,36.75,77,100,16.04,Feniks
+42,42,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+46,46,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+104,104,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+132,132,Brae,GB,2022-02-06 17:22:25,60.3964,-1.353,39.11,59,100,30.4,Busta House Hotel
+136,136,Kalamazoo,US,2022-02-06 17:20:27,42.2506,-85.55,31.03,64,0,13.8,Four Points by Sheraton Kalamazoo
+137,137,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+160,160,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+164,164,Ceica,RO,2022-02-06 17:25:53,46.85,22.1833,38.98,76,100,8.28,Camin cultural Ceica
+241,241,Dzialdowo,PL,2022-02-06 17:28:06,53.2396,20.17,38.97,97,100,17.0,VARIA
+243,243,Jumla,NP,2022-02-06 17:28:07,29.2747,82.1838,33.89,66,34,5.41,Royal Garden Hotel
+265,265,Lentekhi,GE,2022-02-06 17:28:12,42.7856,42.7261,30.6,97,100,2.98,Konstanta Hotel
+276,276,Klaksvik,FO,2022-02-06 17:29:14,62.2266,-6.589,36.52,61,87,37.51,Airbnb rooms
+290,290,Roald,NO,2022-02-06 17:29:17,62.5833,6.1333,39.99,65,75,13.8,Flem Cabins
+293,293,Havoysund,NO,2022-02-06 17:29:18,70.9963,24.6622,30.43,74,30,29.1,Arctic View Glamping & Restaurant
+302,302,Klaksvik,FO,2022-02-06 17:29:14,62.2266,-6.589,36.52,61,87,37.51,Airbnb rooms
+337,337,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+348,348,Carlisle,US,2022-02-06 17:30:29,40.2015,-77.1889,32.99,55,93,1.99,Fairfield Inn & Suites by Marriott Carlisle
+371,371,Divnoye,RU,2022-02-06 17:31:33,45.9089,43.3547,33.1,97,99,22.75,Motel Manych-Gudilo
+373,373,Kochubey,RU,2022-02-06 17:31:33,44.3861,46.5825,35.82,62,97,3.11,Europa
+392,392,Jamestown,US,2022-02-06 17:18:41,42.097,-79.2353,31.51,40,0,8.01,Hampton Inn & Suites Jamestown
+398,398,Bojnurd,IR,2022-02-06 17:31:39,37.4747,57.329,30.15,80,40,4.61,Homag Commercial & Social Complex
+412,412,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+419,419,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+444,444,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+454,454,Shache,CN,2022-02-06 17:33:51,38.4167,77.2406,32.72,57,100,4.5,Delong Hotel
+472,472,Andenes,NO,2022-02-06 17:33:54,69.3143,16.1194,31.98,74,20,11.5,Hotell Marena
+474,474,Ventspils,LV,2022-02-06 17:33:55,57.3894,21.5606,37.33,93,40,9.22,Jūras brīze
+476,476,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+482,482,Vestmannaeyjar,IS,2022-02-06 17:33:57,63.4427,-20.2734,31.19,69,0,11.5,Glamping & Camping
+506,506,Roald,NO,2022-02-06 17:29:17,62.5833,6.1333,39.99,65,75,13.8,Flem Cabins
+519,519,Trelleborg,SE,2022-02-06 17:35:04,55.3751,13.1569,37.94,85,100,16.67,Hotell Dannegården
+530,530,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+541,541,Nokia,FI,2022-02-06 17:31:16,61.4667,23.5,32.68,94,75,8.05,Scandic Eden
+593,593,Nesterov,RU,2022-02-06 17:37:16,54.6306,22.5714,36.01,97,100,14.25,"Gostinitsa ""Moskovskaya"""
+598,598,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+614,614,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+624,624,Dasoguz,TM,2022-02-06 17:37:22,41.8363,59.9666,33.91,86,75,6.91,Hotel Erik
+645,645,Snasa,NO,2022-02-06 17:38:27,64.2457,12.3778,35.01,96,100,4.65,Snåsa Hotell AS
+646,646,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+652,652,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+656,656,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+662,662,Klaksvik,FO,2022-02-06 17:29:14,62.2266,-6.589,36.52,61,87,37.51,Airbnb rooms
+720,720,Vilnius,LT,2022-02-06 17:36:10,54.6892,25.2798,34.68,100,100,16.11,Amberton Cathedral Square Hotel Vilnius
+731,731,Mehamn,NO,2022-02-06 17:40:47,71.0357,27.8492,30.38,80,0,34.52,Mehamn Arctic Hotel AS
+734,734,Esik,KZ,2022-02-06 17:40:48,43.3552,77.4525,31.42,70,100,5.64,"Gostevoy Dom ""Asyl Tau"""
+765,765,Jamestown,US,2022-02-06 17:29:04,42.097,-79.2353,31.51,40,0,5.01,Hampton Inn & Suites Jamestown
+769,769,Wlodawa,PL,2022-02-06 17:40:19,51.55,23.55,35.91,97,100,15.28,Ośrodek Wypoczynkowy Ranczo
+795,795,Klaksvik,FO,2022-02-06 17:42:01,62.2266,-6.589,36.52,60,88,36.8,Airbnb rooms
+816,816,Boardman,US,2022-02-06 17:41:58,41.0242,-80.6628,33.89,67,26,1.01,Red Roof Inn Boardman
+829,829,Sorland,NO,2022-02-06 17:43:08,67.667,12.6934,35.46,61,100,16.64,Sjybrygga fiskecamp
+835,835,Westport,US,2022-02-06 17:43:10,41.1415,-73.3579,30.29,61,72,1.01,The Westport Inn
+841,841,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+850,850,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+853,853,Havoysund,NO,2022-02-06 17:43:14,70.9963,24.6622,30.43,73,26,29.46,Arctic View Glamping & Restaurant
+854,854,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+870,870,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+878,878,Zhanaozen,KZ,2022-02-06 17:44:20,43.3,52.8,30.42,71,68,7.4,K.korabay 28A
+904,904,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+907,907,Klaksvik,FO,2022-02-06 17:42:01,62.2266,-6.589,36.52,60,88,36.8,Airbnb rooms
+931,931,Visby,SE,2022-02-06 17:45:32,57.6409,18.296,37.76,87,20,13.8,Best Western Solhem Hotel Visby
+976,976,Brae,GB,2022-02-06 17:46:41,60.3964,-1.353,37.31,59,98,30.53,Busta House Hotel
+999,999,Jumla,NP,2022-02-06 17:47:46,29.2747,82.1838,33.87,63,44,5.55,Royal Garden Hotel
+1003,1003,Ladozhskaya,RU,2022-02-06 17:47:47,45.3081,39.935,33.06,79,100,11.27,Gostinichnyy Kompleks
+1006,1006,Virginia Beach,US,2022-02-06 17:42:54,36.8529,-75.978,39.99,73,100,9.22,Hilton Virginia Beach Oceanfront
+1026,1026,Uusikaupunki,FI,2022-02-06 17:47:52,60.8004,21.4084,32.52,95,57,8.3,Hotel Aquarius
+1038,1038,Stornoway,GB,2022-02-06 17:48:55,58.2093,-6.3865,38.03,74,20,7.0,Caladh Inn
+1070,1070,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+1079,1079,Havoysund,NO,2022-02-06 17:43:14,70.9963,24.6622,30.43,73,26,29.46,Arctic View Glamping & Restaurant
+1081,1081,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+1121,1121,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+1209,1209,Jamestown,US,2022-02-06 17:43:06,42.097,-79.2353,32.02,39,0,7.0,Hampton Inn & Suites Jamestown
+1219,1219,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1221,1221,Klaksvik,FO,2022-02-06 17:48:37,62.2266,-6.589,36.52,60,80,35.99,Airbnb rooms
+1239,1239,Sorland,NO,2022-02-06 17:53:36,67.667,12.6934,35.46,61,100,16.64,Sjybrygga fiskecamp
+1242,1242,Vestmannaeyjar,IS,2022-02-06 17:53:37,63.4427,-20.2734,31.19,69,0,11.5,Glamping & Camping
+1250,1250,Larsnes,NO,2022-02-06 17:53:40,62.2028,5.5773,39.67,68,100,13.22,Liset Feriesenter AS
+1257,1257,Nara,JP,2022-02-06 17:53:41,34.6851,135.8049,38.48,62,18,3.2,Guesthouse Nara Komachi
+1258,1258,Inverness,GB,2022-02-06 17:50:04,57.4791,-4.224,37.98,85,20,5.99,Glen Mhor Hotel & Apartments
+1274,1274,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1280,1280,Laurel,US,2022-02-06 17:51:48,39.0993,-76.8483,36.5,44,0,1.01,Days Inn & Suites by Wyndham Laurel Near Fort Meade
+1317,1317,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1327,1327,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1347,1347,Charlottesville,US,2022-02-06 17:56:58,38.0293,-78.4767,37.71,51,0,1.99,Hampton Inn & Suites Charlottesville-At The University
+1367,1367,Blyth,GB,2022-02-06 17:57:03,55.1271,-1.5086,38.46,77,20,7.0,Carlton house
+1396,1396,Shache,CN,2022-02-06 17:58:08,38.4167,77.2406,32.72,55,100,3.18,Delong Hotel
+1407,1407,Zhurivka,UA,2022-02-06 17:58:10,50.5028,31.7849,33.78,92,98,10.22,Наш двир
+1414,1414,Klaksvik,FO,2022-02-06 17:48:37,62.2266,-6.589,36.52,60,80,35.99,Airbnb rooms
+1420,1420,Give,DK,2022-02-06 17:58:13,55.8398,9.25,38.55,100,40,13.8,Diagonalkroen ApS
+1435,1435,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1447,1447,Floro,NO,2022-02-06 17:59:18,61.5996,5.0328,37.96,93,100,10.36,Kinn Hotell Florø
+1466,1466,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1475,1475,Shieli,KZ,2022-02-06 17:59:23,44.1667,66.75,32.68,90,100,19.8,Gostinitsa Aybek Shieli
+1504,1504,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1512,1512,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1531,1531,Yarmouth,US,2022-02-06 18:01:36,41.7057,-70.2286,32.25,60,0,3.44,Blue Rock Resort
+1550,1550,Yarmouth,US,2022-02-06 18:01:36,41.7057,-70.2286,32.25,60,0,3.44,Blue Rock Resort
+1551,1551,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1559,1559,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1568,1568,Jamestown,US,2022-02-06 17:53:32,42.097,-79.2353,32.52,38,0,8.01,Hampton Inn & Suites Jamestown
+1607,1607,Gilgit,PK,2022-02-06 18:02:51,35.9221,74.3087,32.81,90,91,1.66,Tourist Hamlet Gilgit
+1620,1620,Tromso,NO,2022-02-06 18:03:54,69.6496,18.957,30.22,64,0,19.57,"Radisson Blu Hotel, Tromsø"
+1621,1621,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
+1632,1632,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
+1633,1633,Andenes,NO,2022-02-06 18:03:56,69.3143,16.1194,33.78,64,87,11.5,Hotell Marena
+1641,1641,Klaksvik,FO,2022-02-06 18:03:58,62.2266,-6.589,36.52,60,80,35.99,Airbnb rooms
+1644,1644,Kadoma,JP,2022-02-06 18:03:59,34.7333,135.5833,39.18,62,13,3.42,Hotel Agora Osaka Moriguchi
+1664,1664,Pietarsaari,FI,2022-02-06 18:05:04,63.65,22.6833,32.9,87,96,13.51,Jakobstad City Hotel Pietarsaari
+1696,1696,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
+1699,1699,Nantucket,US,2022-02-06 18:05:07,41.2835,-70.0995,32.97,69,98,4.25,Jared Coffin House
+1701,1701,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
+1725,1725,Tal,PK,2022-02-06 18:06:16,35.4791,72.2439,31.51,97,100,3.98,Guest Rooms Transport Parking
+1737,1737,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
+1746,1746,Brigantine,US,2022-02-06 18:06:20,39.4101,-74.3646,37.99,59,0,9.22,Legacy Vacation Resorts - Brigantine Beach
+1768,1768,Jamestown,US,2022-02-06 18:02:20,42.097,-79.2353,33.53,36,0,5.01,Hampton Inn & Suites Jamestown
